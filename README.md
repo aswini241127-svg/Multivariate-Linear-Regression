@@ -31,6 +31,7 @@ successfully run the output
 
 ```
 ## Output:
+```
 ![10 out](https://github.com/user-attachments/assets/a944ff95-2c73-42bb-89f1-0e14b63e9bda)
 
 ### Insert your output
